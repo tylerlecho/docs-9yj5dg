@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-aa56ya.salamcuanwin.xyz/sitemap.xml
